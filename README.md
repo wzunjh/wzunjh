@@ -20,10 +20,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=wzunjh" alt="Github Trophies" width="100%" />
 </div>
 
+<hr/>
 
-<div style="display: flex; justify-content: center;">
-    <div style="text-align: center;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wzunjh" alt="Github Streak Stats" />
-    </div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wzunjh" alt="Github Streak Stats" width="100%" />
 </div>
+
 
