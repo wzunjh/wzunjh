@@ -9,15 +9,8 @@
 
 <hr/>
 
-<div style="display: flex; justify-content: center;">
-    <div style="text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzunjh&theme=dark&layout=compact" alt="Most Used Languages" />
-    </div>
-    <div style="text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=wzunjh&show_icons=true&theme=dark&count_private=true" alt="Github Stats" />
-    </div>
-</div>
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wzunjh&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wzunjh&show_icons=true&theme=dark&count_private=true)
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=wzunjh" /> </div>
 
