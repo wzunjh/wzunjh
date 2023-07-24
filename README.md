@@ -1,7 +1,6 @@
 ### Hi there 👋
 # Hi 🎉 Welcome to wzunjh's Github Homepage!
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m wzunjh
 
 - 👨‍💻 I’m currently learning Java，Python，JS，Vue...
 - ✍️ [MyBlog](https://wzunjh.top) 我的网站主页
