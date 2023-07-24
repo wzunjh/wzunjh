@@ -16,11 +16,10 @@
 
 <hr/>
 
-<div style="display: flex; justify-content: center;">
-    <div style="text-align: center;">
-        <img src="https://github-profile-trophy.vercel.app/?username=wzunjh" alt="Github Trophies" />
-    </div>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=wzunjh" alt="Github Trophies" width="100%" />
 </div>
+
 
 <div style="display: flex; justify-content: center;">
     <div style="text-align: center;">
