@@ -8,8 +8,8 @@
 - 🤖 [AI Ultra API 集成开发者平台](https://api.wzunjh.top) 欢迎各位开发者的加入
 
 <hr/>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wzunjh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wzunjh&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wzunjh&show_icons=true&theme=dark&count_private=true)
 
 
