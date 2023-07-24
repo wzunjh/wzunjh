@@ -2,10 +2,10 @@
 # Hi 🎉 Welcome to wzunjh's Github Homepage!
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m wzunjh
 
-- 🤖 [AI Ultra API 集成开发者平台](https://api.wzunjh.top)
 - 👨‍💻 I’m currently learning Java，Python，JS，Vue...
 - ✍️ [MyBlog](https://wzunjh.top)
 - 💬 [AI Ultra 人工智能对话平台](https://chat.wzunjh.top) 5000+用户
+- 🤖 [AI Ultra API 集成开发者平台](https://api.wzunjh.top)
 - 📫 Reach me: [email](mailto:wzunjh@qq.com)
 
 **「Stay hungry，Stay foolish.」** ❤️ 
