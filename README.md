@@ -9,10 +9,9 @@
 
 <hr/>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzunjh&theme=dark&layout=compact" alt="Most Used Languages" align="left" />
-    <img src="https://github-readme-stats.vercel.app/api?username=wzunjh&show_icons=true&theme=dark&count_private=true" alt="Github Stats" align="right" />
-</div>
+| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wzunjh&theme=dark&layout=compact) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=wzunjh&show_icons=true&theme=dark&count_private=true) |
+| --- | --- |
+
 
 
 <hr/>
