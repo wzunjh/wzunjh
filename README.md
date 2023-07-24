@@ -9,7 +9,6 @@
 
 <hr/>
 
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wzunjh&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wzunjh&show_icons=true&theme=dark&count_private=true)
 
