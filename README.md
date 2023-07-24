@@ -1,6 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 # Hi 🎉 Welcome to wzunjh's Github Homepage!
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 - 👨‍💻 I’m currently learning Java，Python，JS，Vue...
 - ✍️ [MyBlog](https://wzunjh.top) 我的网站主页
