@@ -7,6 +7,8 @@
 - 💬 [AI Ultra 人工智能对话平台](https://chat.wzunjh.top) 5000+用户
 - 🤖 [AI Ultra API 集成开发者平台](https://api.wzunjh.top) 欢迎各位开发者的加入
 
+<hr/>
+
 <div style="display: flex; justify-content: center;">
     <div style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzunjh&theme=dark&layout=compact" alt="Most Used Languages" />
