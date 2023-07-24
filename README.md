@@ -9,14 +9,11 @@
 
 <hr/>
 
-<div style="display: flex; justify-content: center;">
-    <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzunjh&theme=dark&layout=compact" alt="Most Used Languages" />
-    </div>
-    <div style="text-align: right;">
-        <img src="https://github-readme-stats.vercel.app/api?username=wzunjh&show_icons=true&theme=dark&count_private=true" alt="Github Stats" />
-    </div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzunjh&theme=dark&layout=compact" alt="Most Used Languages" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wzunjh&show_icons=true&theme=dark&count_private=true" alt="Github Stats" align="right" />
 </div>
+
 
 <hr/>
 
