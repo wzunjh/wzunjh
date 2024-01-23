@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m currently learning Java，Python，JS，Vue...
 - ✍️ [MyBlog](https://wzunjh.top) 我的网站主页
-- 💬 [AI Ultra 人工智能对话平台](https://chat.wzunjh.top) 6200+位用户
+- 💬 [NineF AI 智能对话平台](https://chat.wzunjh.top) 6200+位用户，欢迎您的加入
 
 <hr/>
 
