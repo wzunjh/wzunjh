@@ -10,12 +10,8 @@
 | --- | --- |
 
 
-
 <hr/>
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=wzunjh" alt="Github Trophies" width="100%" />
-</div>
 
 
 
