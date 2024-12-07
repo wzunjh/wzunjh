@@ -17,10 +17,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=wzunjh" alt="Github Trophies" width="100%" />
 </div>
 
-<hr/>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wzunjh" alt="Github Streak Stats" width="100%" />
-</div>
 
 
